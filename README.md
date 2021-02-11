@@ -64,7 +64,7 @@ python main.py
 友情提供以下两种下载渠道：
 
 
-* [Link](http://39.105.149.229/dn.zip)
+* [Link](http://39.105.149.229/dn.7z)
 
 * [Google Drive](https://drive.google.com/drive/folders/1OKuIp0nxMUucgEScTc2vESvlpKzIWav4?usp=sharing)
 
